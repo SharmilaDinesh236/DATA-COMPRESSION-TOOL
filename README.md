@@ -57,3 +57,5 @@ Decompresses the RLE data back to original
 You can expand this tool to handle binary files or UI-based interaction.
 
 *OUTPUT*:
+
+<img width="1920" height="1014" alt="Image" src="https://github.com/user-attachments/assets/5e305c2b-9b4d-423a-bc2b-318ced8dbdf4" />
