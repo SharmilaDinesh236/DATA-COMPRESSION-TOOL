@@ -23,7 +23,7 @@ Tools Used:
 
 Editor    : VS Code
 
-Compiler  : Dev-C++
+Compiler  : DevC++
 
 Language  : C
 
